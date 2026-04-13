@@ -43,13 +43,7 @@ Follow the installation instructions on their website.
 ---------------
 
 1.  Install **Tampermonkey**
-2.  Open the Tampermonkey dashboard
-3.  Click **"Create a new script"**
-4.  Replace the default content with the script:
-
-    Moodle_forcedownload_fixer-1.0.user.js
-
-5.  Save (`Ctrl + S`)
+2.  Click here to install the script 👉 [![Install Script](https://img.shields.io/badge/Install-Tampermonkey-blue)](https://raw.githubusercontent.com/choppadebug/Moodle-files-WebViewer/main/Moodle_forcedownload_fixer-1.0.user.js)
 
 * * * * *
 
@@ -136,6 +130,13 @@ The script:
     -   DOM mutations
     -   Click events
     -   `window.open`
+
+* * * * *
+
+🎬 Preview
+-----------
+
+![Demo](./demo.gif)
 
 * * * * *
 
